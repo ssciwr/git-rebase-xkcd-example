@@ -1,7 +1,7 @@
 This data file is used to attach changes to the commits. They are designed such that you can rearrange, remove and squash commits without creating conflicts.
 CHANGE
 SEPARATOR #1
-
+CHANGE
 SEPARATOR #2
 
 SEPARATOR #3
